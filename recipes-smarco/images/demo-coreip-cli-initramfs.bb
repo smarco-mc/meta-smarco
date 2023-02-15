@@ -1,4 +1,4 @@
-DESCRIPTION = "SiFive RISC-V Core IP Demo Benchmarks Linux image"
+DESCRIPTION = "SmarCo RISC-V Core IP Demo Benchmarks Linux image"
 
 # Simple initramfs image. Mostly used for live images.
 DESCRIPTION = "Small image capable of booting a device. The kernel includes \
